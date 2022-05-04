@@ -1,6 +1,10 @@
 # Reproducibility study for "Explaining in Style: Training a GAN to explain a classifier in StyleSpace"
 
-This repository contains our experiments in reproducing Lang et.al's  ["Explaining in Style: Training a GAN to explain a classifier in StyleSpace"](https://arxiv.org/abs/2104.13369).
+This repository contains our experiments in reproducing Lang et.al's  ["Explaining in Style: Training a GAN to explain a classifier in StyleSpace"](https://arxiv.org/abs/2104.13369). 
+
+Our paper got accepted for the Machine Learning Reproducibility Challenge 2021 and it will be published in the upcoming special edition of the ReScience Journal! 
+
+The paper is available here: [Website](https://openreview.net/forum?id=SK8gAhfX2AK)
 
 Original Paper Material: [Website](https://explaining-in-style.github.io/) [GitHub](https://github.com/google/explaining-in-style)
 
